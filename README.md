@@ -1,2 +1,2 @@
 # TypingSpeedTest
-Calculates typing speed test in CPM and WPM(approximately)
+Calculates typing speed test in CPM accurately and WPM approximately.
